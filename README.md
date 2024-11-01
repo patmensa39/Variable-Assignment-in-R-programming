@@ -15,7 +15,7 @@ numbers = c(1, 2, 3, 4, 5)
 age <- 25
 
 # Assigning a string to a variable
-name <- "Alice"
+name <- "Patrick Mensah"
 
 # Assigning a vector to a variable
 scores <- c(88, 92, 79, 85)
